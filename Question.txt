@@ -1,0 +1,13 @@
+Simple Student Management System
+
+CRUD operations
+File handling
+arrays
+pointers
+structures
+
+How to run:
+complie --> javac *.java
+run --> java <Your file name>
+
+ex: java main
